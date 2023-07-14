@@ -1,3 +1,8 @@
+import streamlit as st
+
+st.markdown("# Main page 🎈")
+st.sidebar.markdown("# Main page 🎈")
+
 from collections import namedtuple
 import altair as alt
 import math
